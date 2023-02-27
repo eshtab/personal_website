@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Eshta Bhardwaj"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: Eshta_AcademicCV.pdf
+        text: CV
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+
+

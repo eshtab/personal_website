@@ -1,0 +1,7 @@
+---
+title: "Eshta Bhardwaj"
+---
+
+I am a PhD Student at the Faculty of Information. My research looks at the application of data curation to address concerns of fairness, accountability, and transparency of datasets used for predictive modelling. I am also interested in research areas related to decision support for climate change governance. 
+
+Some examples of  my work include: [Telling Data Stories](https://tellingstorieswithdata.com/07-gather.html#spotify)
